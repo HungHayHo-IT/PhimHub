@@ -42,4 +42,4 @@ To get a local copy up and running, follow these simple steps.
 ### Installation & Setup
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/PhimHub.git](https://github.com/YOUR_GITHUB_USERNAME/PhimHub.git)
+   git clone https://github.com/HungHayHo-IT/PhimHub.git
